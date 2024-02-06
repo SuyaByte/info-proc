@@ -40,12 +40,12 @@ def log_progress(message):
 def extract(url, table_attribs):
 
     ''' This function aims to extract the required information from the website and save it to a data frame. The function returns the data frame for further processing. '''
-return df
+        return df
 
 def transform(df, csv_path):
 
     ''' This function accesses the CSV file for exchange rate information, and adds three columns to the data frame, each containing the transformed version of the Market Cap column to respective currencies'''
-return df
+        return df
 
 def load_to_csv(df, output_path):
 
