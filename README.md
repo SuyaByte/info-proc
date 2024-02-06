@@ -33,7 +33,7 @@ The libraries needed for the code are:
 
 Importing the required libraries
 
-def log_progress(message):
+`#RRGGBB`def log_progress(message):
 
 ''' This function logs the mentioned message of a given stage of the code execution to a log file. The function returns nothing'''
 
