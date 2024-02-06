@@ -21,12 +21,12 @@ The task is to create an automated system to generate this information so that t
 This project is done as a part of IBM Data Engineering Certification Course. It is developed and executed in a Cloud IDE. In this project, the database is created on a dummy server using SQLite3 Library.
 
 The libraries needed for the code are:
-requests - The library used for accessing the information from the URL.
-bs4 - The library containing the BeautifulSoup function used for webscraping.
-pandas - The library used for processing the extracted data, storing it in required formats, and communicating with the databases.
-sqlite3 - The library required to create a database server connection.
-numpy - The library required for the mathematical rounding operations.
-datetime - The library containing the function datetime used for extracting the timestamp for logging purposes.
+. requests - The library used for accessing the information from the URL.
+. bs4 - The library containing the BeautifulSoup function used for webscraping.
+. pandas - The library used for processing the extracted data, storing it in required formats, and communicating with the databases.
+. sqlite3 - The library required to create a database server connection.
+. numpy - The library required for the mathematical rounding operations.
+. datetime - The library containing the function datetime used for extracting the timestamp for logging purposes.
 
 ## Code:
 ### Code for ETL operations on Country-GDP data
