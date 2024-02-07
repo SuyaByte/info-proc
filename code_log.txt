@@ -1,0 +1,24 @@
+2024-Feb-06-19-18-13 : start etl process
+2024-Feb-06-19-18-13 : start extraction phase
+2024-Feb-06-19-18-15 : end extraction phase
+2024-Feb-06-19-18-15 : start transformation phase
+2024-Feb-06-19-18-15 : end transformation phase
+2024-Feb-06-19-18-15 : start csv load phase
+2024-Feb-06-19-18-15 : end csv load phase
+2024-Feb-06-19-18-15 : start db load phase
+2024-Feb-06-19-18-15 : end db load phase
+2024-Feb-06-19-18-15 : start querying phase
+2024-Feb-06-19-18-15 : end querying phase
+2024-Feb-06-19-18-15 : end etl process
+2024-Feb-06-19-18-42 : start etl process
+2024-Feb-06-19-18-42 : start extraction phase
+2024-Feb-06-19-18-43 : end extraction phase
+2024-Feb-06-19-18-43 : start transformation phase
+2024-Feb-06-19-18-43 : end transformation phase
+2024-Feb-06-19-18-43 : start csv load phase
+2024-Feb-06-19-18-43 : end csv load phase
+2024-Feb-06-19-18-43 : start db load phase
+2024-Feb-06-19-18-43 : end db load phase
+2024-Feb-06-19-18-43 : start querying phase
+2024-Feb-06-19-18-43 : end querying phase
+2024-Feb-06-19-18-43 : end etl process
